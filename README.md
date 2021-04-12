@@ -1,4 +1,5 @@
 # Lab 4
+## Program tworzący czajnik, filiżankę oraz łyżkę za pomocą płatów powierzchni Beziera
 
 Główną klasą programu jest Bezier. 
 Klasa Obliczenia zawiera dwumian Newtona, silnie, Bezier'a oraz wczytuje punkty z podanych plików.
